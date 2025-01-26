@@ -47,7 +47,7 @@ Ensure you have the following installed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/sidharthp-2004/aicteinternship_humanpose_estimation.git
-   cd human-pose-estimation
+   cd aicteinternship_humanpose_estimation
 2. Create a virtual environment and active it:  
 python -m venv venv
 source venv/bin/activate  # For Windows: venv\Scripts\activate
